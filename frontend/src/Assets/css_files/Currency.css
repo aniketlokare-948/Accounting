@@ -1,0 +1,23 @@
+.currency-form {
+    border: 1px solid #007bff;
+    border-radius: 10px;
+    background: linear-gradient(145deg, #f0f0f0, #d3d3d3);
+    box-shadow: 8px 8px 15px #a1a1a1, -8px -8px 15px #ffffff;
+}
+
+.currency-item {
+    border: 1px solid #007bff;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    transition: all 0.3s ease;
+}
+
+.currency-item:hover {
+    background-color: #e7f1ff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.currency-icon {
+    margin-right: 10px;
+    border-radius: 50%;
+}
